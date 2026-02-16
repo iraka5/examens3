@@ -1,6 +1,12 @@
 TO DO LIST
 Base de données (20 min)
 
+    user 
+        id
+        nom
+        password
+        email
+
     regions
 
         id
@@ -102,9 +108,9 @@ FlightMVC
 
 
 
-Alintsoa (~2h20)
+Alintsoa (~2h30)
 
-    Base de données (20 min)
+    Base de données (30 min)
 
     Pages Régions (30 min)
 
@@ -113,9 +119,9 @@ Alintsoa (~2h20)
     Adaptation des routes (30 min)
 
     Controllers (40 min)
-    Total ≈ 2h30
+    Total ≈ 2h40
 
-Melissa (~2h20)
+Melissa (~2h40)
 
     Pages Besoins (30 min)
 
@@ -129,7 +135,12 @@ Melissa (~2h20)
     Total ≈ 2h40
 
 Iraka (~2h30)
+
     Page login admin/user (50 min)
+
+    Page signup (40 min)
+
     Pages Ensemble/Tableau de bord (60 min)
+
     Classes (models) (40 min)
     Total ≈ 2h30
