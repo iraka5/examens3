@@ -1,67 +1,108 @@
 TO DO LIST
+Base de données (20 min)
 
--base de donnees (10 min)
-    -regions
+    regions
+
         id
+
         nom
 
-    -ville
+    ville
+
         id
+
         id regions
+
         nom
 
-    -besoins
+    besoins
+
         id
+
         nom
+
         nombre
+
         id ville
 
-    -dons 
+    dons
+
         id
+
         nom du donneur
-        type don 
+
+        type don
+
         nombre don
+
         id ville
 
-    -echange
+    echange
+
         id
+
         id besoins
+
         id don
+
         nombre echangee
+
         date don
 
--pages
-    -pages regions (20 min)
-        -liste des regions
-    -pages villes (20min)
-        -liste des villes
-    -pages besoins(20min)
-        -affiche les listes des besoins de la ville
-    -pages insertions des besoins formulaire(30 min)
-        -nom ville
-        -besoins en quantite
-    -pages insertion des dons (30 min)
-        -nom donateur
-        -type
-        -quantite
-    pages ensemble (30 min)
-        -regions
-        -ville
-        -besoins
-        -attributions
+Pages
 
--flightmvc
-    -adaptation des routes (20 min)
-    -organisation mvc 
-        -classes (30 min)
-        -controllers (30min)
-        -views (30min)
-    
+    pages regions (30 min)
+
+        liste des regions
+
+    pages villes (30 min)
+
+        liste des villes
+
+    pages besoins (30 min)
+
+        affiche les listes des besoins de la ville
+
+    pages insertions des besoins formulaire (40 min)
+
+        nom ville
+
+        besoins en quantite
+
+    pages insertion des dons (40 min)
+
+        nom donateur
+
+        type
+
+        quantite
+
+    pages ensemble (60 min)
+
+        regions
+
+        ville
+
+        besoins
+
+        attributions
+
+FlightMVC
+
+    adaptation des routes (30 min)
+
+    organisation mvc
+
+        classes (40 min)
+
+        controllers (40 min)
+
+        views (40 min)
 
 
 
 
-Personne 1 (~2h20)
+Alintsoa (~2h20)
 
     Base de données (20 min)
 
@@ -72,9 +113,9 @@ Personne 1 (~2h20)
     Adaptation des routes (30 min)
 
     Controllers (40 min)
-    👉 Total ≈ 2h30
+    Total ≈ 2h30
 
-Personne 2 (~2h20)
+Melissa (~2h20)
 
     Pages Besoins (30 min)
 
@@ -85,12 +126,10 @@ Personne 2 (~2h20)
     Formulaire insertion dons (40 min)
 
     Views (40 min)
-    👉 Total ≈ 2h40
+    Total ≈ 2h40
 
-Personne 3 (~2h20)
-
+Iraka (~2h30)
+    Page login admin/user (50 min)
     Pages Ensemble/Tableau de bord (60 min)
-
     Classes (models) (40 min)
-    👉 Total ≈ 1h40 → pour équilibrer, cette personne peut aussi prendre tests et validation finale (40 min).
-    👉 Total ≈ 2h20
+    Total ≈ 2h30
